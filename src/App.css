@@ -1,0 +1,52 @@
+.signup{
+  text-align: center;
+  padding-top: 40px;
+  color:rgb(200, 81, 101);
+}
+body{
+    background-image: url('../src/assets/back.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.container{
+    margin-left: 350px;
+    box-shadow: 0 0 15px rgb(200, 81, 101);
+    width: 450px;
+    height: 480px;
+}
+.inputs{
+    margin-left: 80px;
+    width: 230px;
+    border-style: hidden;
+    border-bottom: 3px solid purple;
+    background-color:transparent;
+    font-size: 18PX;
+}
+.sinupbtn{
+    margin-left:80px;
+    background-color:transparent;
+    box-shadow: 0 0 20px purple;
+    padding: 15px;
+    width: 130px;
+    color: rgb(110, 104, 104);
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.sinupbtn:hover{
+    background-color: rgb(182, 56, 169);
+    color: white;
+    box-shadow: 0 0 20px rgb(251, 144, 251);
+}
+.forgot{
+    background-color:transparent;
+    border-style: hidden;
+    color: black;
+    margin-left: 60px;
+}
+.githubbtn{
+    background-color: transparent;
+    color: black;
+    margin-left: 250px;
+}
